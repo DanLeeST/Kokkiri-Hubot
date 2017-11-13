@@ -1,0 +1,4 @@
+node_modules
+runhubot*
+.DS_Store*
+.hubot_history
